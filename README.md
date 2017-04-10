@@ -1,2 +1,3 @@
 # Leisure_code
-Just a repository for leisure code
+Just a repository for leisure code.
+Leisurely coding...
